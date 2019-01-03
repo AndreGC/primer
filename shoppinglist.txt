@@ -4,6 +4,7 @@ _______________
 - apple
 - milk
 - oranges
+- mineral water
 
 wine list
 _______________
