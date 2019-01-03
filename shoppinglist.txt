@@ -3,3 +3,9 @@ Shopping list
 _______________
 - apple
 - milk
+- oranges
+
+wine list
+_______________
+- pinot noir
+- cabernet sauvignon
